@@ -6,6 +6,15 @@
     height: 100vh;
 }
 
+.white-text {
+    color: white;
+}
+  
+.lora-font-white {
+    font-family: 'Lora', serif;
+    color: white;
+}
+
 #particles-js {
     position: absolute;
     top: 0;
